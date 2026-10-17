@@ -7,11 +7,6 @@
   <a href="https://www.linkedin.com/in/salvador-s%C3%A1nchez-ruiz/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-121212?style=flat-square&logo=linkedin&logoColor=white"></a>
 </div>
 
-<div align="center">
-Five years building for the web: e-commerce, design systems and CMSs.<br>
-Marketing degree first, self-taught engineer after.
-</div>
-
 <br>
 
 <a href="https://github.com/Jota-Music/jota"><img src="./assets/projects/jota-card.svg" width="100%" alt="Jota — self-hosted music app"></a>
