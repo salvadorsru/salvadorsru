@@ -13,15 +13,16 @@
 
 ## 🏢 Organizations
 
-> **[Jota-Music](https://github.com/Jota-Music)** — music, code and everything in between.
+- **[Jota-Music](https://github.com/Jota-Music)** — self-hosted music streaming: clients, relay and web.
+- **[Bob-Object-Builder](https://github.com/Bob-Object-Builder)** — "bob", a custom SQL DSL with its transpiler, editor and tooling.
 
 ## 📌 Featured projects
 
 <table>
   <tr>
     <td width="50%" align="center">
-      <a href="https://github.com/salvadorsru/jota"><img src="./assets/projects/jota.png" width="45%" alt="Jota"></a><br>
-      <a href="https://github.com/salvadorsru/jota"><b>Jota</b></a><br>
+      <a href="https://github.com/Jota-Music/jota"><img src="./assets/projects/jota.png" width="45%" alt="Jota"></a><br>
+      <a href="https://github.com/Jota-Music/jota"><b>Jota</b></a><br>
       <i>Self-hosted music app: Spotify, YouTube audio and rooms over your own relay.</i>
     </td>
     <td width="50%" align="center">
@@ -32,8 +33,8 @@
   </tr>
   <tr>
     <td width="50%" align="center">
-      <a href="https://github.com/salvadorsru/bob"><img src="./assets/projects/bob.jpg" width="45%" alt="Bob"></a><br>
-      <a href="https://github.com/salvadorsru/bob"><b>Bob</b></a><br>
+      <a href="https://github.com/Bob-Object-Builder/bob"><img src="./assets/projects/bob.jpg" width="45%" alt="Bob"></a><br>
+      <a href="https://github.com/Bob-Object-Builder/bob"><b>Bob</b></a><br>
       <i>Open source transpiler for a custom SQL DSL, written in Go.</i>
     </td>
     <td width="50%" align="center">

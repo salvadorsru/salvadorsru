@@ -1,31 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" fill="none">
-  <defs>
-    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#212121"/>
-      <stop offset="100%" stop-color="#121212" stop-opacity="0"/>
-    </radialGradient>
-  </defs>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="180" viewBox="0 0 1200 180" fill="none">
+  <rect width="1200" height="180" fill="#080808"/>
 
-  <rect width="1200" height="280" fill="#080808"/>
-
-  <!-- BallSpace: balls floating in the dark, brand palette -->
-  <g opacity="0.9">
-    <circle cx="70"   cy="60"  r="26" fill="#3b82f6"/>
-    <circle cx="180"  cy="200" r="14" fill="#b91c1c"/>
-    <circle cx="150"  cy="90"  r="8"  fill="#ec4899"/>
-    <circle cx="1030" cy="70"  r="20" fill="#c6a210"/>
-    <circle cx="1100" cy="180" r="30" fill="#7c3aed"/>
-    <circle cx="1120" cy="50"  r="10" fill="#22c55e"/>
-    <circle cx="1060" cy="230" r="12" fill="#ec4899"/>
-    <circle cx="330"  cy="40"  r="10" fill="#c6a210"/>
-    <circle cx="250"  cy="240" r="18" fill="#22c55e"/>
-    <circle cx="420"  cy="230" r="9"  fill="#3b82f6"/>
-    <circle cx="940"  cy="240" r="8"  fill="#b91c1c"/>
-    <circle cx="860"  cy="50"  r="14" fill="#ec4899"/>
+  <g>
+    <circle cx="522" cy="38" r="5" fill="#3b82f6"/>
+    <circle cx="546" cy="38" r="5" fill="#b91c1c"/>
+    <circle cx="570" cy="38" r="5" fill="#c6a210"/>
+    <circle cx="594" cy="38" r="5" fill="#22c55e"/>
+    <circle cx="618" cy="38" r="5" fill="#7c3aed"/>
+    <circle cx="642" cy="38" r="5" fill="#ec4899"/>
   </g>
 
-  <ellipse cx="600" cy="140" rx="330" ry="120" fill="url(#glow)"/>
+  <text x="600" y="102" text-anchor="middle" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-weight="bold" font-style="normal" font-size="40" letter-spacing="2" fill="#ffffff">SALVADOR SÁNCHEZ RUIZ</text>
 
-  <text x="600" y="128" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="64" fill="#ffffff">Salvador Sánchez Ruiz</text>
-  <text x="600" y="186" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="26" letter-spacing="10" fill="#3b82f6">POET · PROGRAMMER · SINGER</text>
+  <text x="600" y="144" text-anchor="middle" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-weight="normal" font-size="18" letter-spacing="7" fill="#a1a1aa">POET · PROGRAMMER · SINGER</text>
+
+  <rect x="0" y="179" width="1200" height="1" fill="#212121"/>
 </svg>
