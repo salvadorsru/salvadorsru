@@ -16,18 +16,9 @@ Marketing degree first, self-taught engineer after.
 
 <a href="https://github.com/Jota-Music/jota"><img src="./assets/projects/jota-card.svg" width="100%" alt="Jota — self-hosted music app"></a>
 
-<br>
+<a href="https://github.com/salvadorsru/dali"><img src="./assets/projects/dali-card.svg" width="100%" alt="Dali — search and indexing engine for Figma files"></a>
 
-<table>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <a href="https://github.com/salvadorsru/dali"><img src="./assets/projects/dali-card.svg" width="100%" alt="Dali"></a>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <a href="https://github.com/Bob-Object-Builder/bob"><img src="./assets/projects/bob-card.svg" width="100%" alt="Bob"></a>
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/Bob-Object-Builder/bob"><img src="./assets/projects/bob-card.svg" width="100%" alt="Bob — SQL DSL transpiler"></a>
 
 ## Also open source
 
