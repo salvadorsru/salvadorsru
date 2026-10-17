@@ -10,8 +10,8 @@
   <rect x="1" y="1" width="1198" height="198" rx="20" fill="none" stroke="#ffffff" stroke-opacity="0.08"/>
 
   <g clip-path="url(#card)">
-    <circle cx="60" cy="100" r="150" fill="#FF6DD6" fill-opacity="0.16" filter="url(#glow)"/>
-    <circle cx="1140" cy="100" r="150" fill="#FF8601" fill-opacity="0.16" filter="url(#glow)"/>
+    <circle cx="60" cy="100" r="150" fill="#ffffff" fill-opacity="0.12" filter="url(#glow)"/>
+    <circle cx="1140" cy="100" r="150" fill="#ffffff" fill-opacity="0.12" filter="url(#glow)"/>
   </g>
 
   <rect x="540" y="52" width="32" height="3" rx="1.5" fill="#FF6DD6"/>
