@@ -3,7 +3,8 @@
 </div>
 
 <div align="center">
-  <a href="https://www.salvadorsru.com/en/"><img alt="Website" src="https://img.shields.io/badge/salvadorsru.com-121212?style=flat-square&logo=aboutdotme&logoColor=white"></a>
+  <a href="https://www.salvadorsru.com/en/"><img src="./assets/icons/globe.svg" width="15" alt=""> <b>salvadorsru.com</b></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/salvador-s%C3%A1nchez-ruiz/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-121212?style=flat-square&logo=linkedin&logoColor=white"></a>
 </div>
 
@@ -20,19 +21,19 @@ Marketing degree first, self-taught engineer after.
 
 <a href="https://github.com/Bob-Object-Builder/bob"><img src="./assets/projects/bob-card.svg" width="100%" alt="Bob — SQL DSL transpiler"></a>
 
-## Also open source
+## <img src="./assets/icons/terminal.svg" width="16" alt=""> Also open source
 
 - [**searchable-select**](https://github.com/salvadorsru/searchable-select) — searchable dropdown web component, dependency-free.
 - [**card-deck**](https://github.com/salvadorsru/card-deck) — swipeable card stack as a web component.
 - [**simple-pot-generator-cli**](https://github.com/salvadorsru/simple-pot-generator-cli) — generates `.pot` i18n files.
 - [**touch-command-in-rust**](https://github.com/salvadorsru/touch-command-in-rust) — the Unix `touch` command, built in Rust.
 
-## Organizations
+## <img src="./assets/icons/building-2.svg" width="16" alt=""> Organizations
 
 - [**Jota-Music**](https://github.com/Jota-Music) — self-hosted music streaming: client, relay and web.
 - [**Bob-Object-Builder**](https://github.com/Bob-Object-Builder) — a custom SQL DSL and its tooling.
 
-## Experience
+## <img src="./assets/icons/briefcase.svg" width="16" alt=""> Experience
 
 - **Front-end Developer** · Grupo Uriach — *Feb 2025 – Present*<br>
   <sub>E-commerce in Next.js for Woments, Aquilea, Depuralina and Fisiocrem. Design system, microservices and a Sanity CMS the whole team can use.</sub>
@@ -53,6 +54,6 @@ Marketing degree first, self-taught engineer after.
   <sub>
     <a href="https://www.salvadorsru.com/en/">salvadorsru.com</a> ·
     <a href="https://www.salvadorsru.com/en/portfolio">portfolio</a> ·
-    <a href="https://www.salvadorsru.com/portafolio/poemas-desde-un-cuarto">poetry</a>
+    <a href="https://www.salvadorsru.com/portafolio/poemas-desde-un-cuarto"><img src="./assets/icons/book-open.svg" width="13" alt=""> poetry</a>
   </sub>
 </div>
