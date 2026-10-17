@@ -53,6 +53,6 @@ Marketing degree first, self-taught engineer after.
 <div align="center">
   <sub>
     <a href="https://www.salvadorsru.com/en/">salvadorsru.com</a> ·
-    <a href="https://www.salvadorsru.com/en/portfolio">portfolio</a> ·
+    <a href="https://www.salvadorsru.com/en/portfolio">portfolio</a>
   </sub>
 </div>
