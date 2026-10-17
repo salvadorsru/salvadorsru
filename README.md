@@ -8,23 +8,22 @@
 </div>
 
 <div align="center">
-I write poetry, I write code,<br>
-and I sing in <a href="https://github.com/Jota-Music">Jota</a>.
+Five years building for the web: e-commerce, design systems and CMSs.<br>
+Marketing degree first, self-taught engineer after.
 </div>
 
 <br>
 
-## Featured
+<a href="https://github.com/Jota-Music/jota"><img src="./assets/projects/jota-card.svg" width="100%" alt="Jota — self-hosted music app"></a>
+
+<br>
 
 <table>
   <tr>
-    <td width="33%" align="center" valign="top">
-      <a href="https://github.com/Jota-Music/jota"><img src="./assets/projects/jota-card.svg" width="100%" alt="Jota"></a>
-    </td>
-    <td width="33%" align="center" valign="top">
+    <td width="50%" align="center" valign="top">
       <a href="https://github.com/salvadorsru/dali"><img src="./assets/projects/dali-card.svg" width="100%" alt="Dali"></a>
     </td>
-    <td width="33%" align="center" valign="top">
+    <td width="50%" align="center" valign="top">
       <a href="https://github.com/Bob-Object-Builder/bob"><img src="./assets/projects/bob-card.svg" width="100%" alt="Bob"></a>
     </td>
   </tr>
@@ -42,8 +41,19 @@ and I sing in <a href="https://github.com/Jota-Music">Jota</a>.
 - [**Jota-Music**](https://github.com/Jota-Music) — self-hosted music streaming: client, relay and web.
 - [**Bob-Object-Builder**](https://github.com/Bob-Object-Builder) — a custom SQL DSL and its tooling.
 
+## Experience
+
+- **Front-end Developer** · Grupo Uriach — *Feb 2025 – Present*<br>
+  <sub>E-commerce in Next.js for Woments, Aquilea, Depuralina and Fisiocrem. Design system, microservices and a Sanity CMS the whole team can use.</sub>
+- **Front-end Team Lead & Full-stack Developer** · Primor — *Sep 2022 – Feb 2025*<br>
+  <sub>Internal framework and company CRM. 200+ landing pages, plus a reviews service for a catalogue of 60k products.</sub>
+- **Full-stack Developer & SEO** · Perfume'club — *Mar 2022 – Sep 2022*<br>
+  <sub>Electron desktop apps and AI-assisted internationalisation across 15+ countries.</sub>
+- **Freelance web developer & designer** — *Mar 2018 – Present*<br>
+  <sub>Web design, WordPress and brand identity for 5+ SMEs, plus the open-source projects above.</sub>
+
 <div align="center">
-  <sub>Go · TypeScript · JavaScript · Rust · Astro · Web Components</sub>
+  <sub>TypeScript · Next.js · React · Svelte · Astro · Node.js · Go · PHP</sub>
 </div>
 
 ---

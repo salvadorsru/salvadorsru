@@ -7,9 +7,9 @@
     <rect x="628" y="42" width="32" height="3" rx="1.5" fill="#FF8601"/>
   </g>
 
-  <text x="600" y="114" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-weight="600" font-size="46" fill="#ffffff">Salvador Sánchez Ruiz</text>
+  <text x="600" y="116" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-weight="600" font-size="46" fill="#ffffff">Salvador Sánchez Ruiz</text>
 
-  <text x="600" y="152" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16" fill="#8f8f96" letter-spacing="4">POET · PROGRAMMER · SINGER</text>
+  <text x="600" y="154" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16" fill="#8f8f96" letter-spacing="3">FULL-STACK DEVELOPER · PALMA DE MALLORCA</text>
 
   <rect x="0" y="189" width="1200" height="1" fill="#1f1f1f"/>
 </svg>
